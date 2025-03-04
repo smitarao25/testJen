@@ -1,4 +1,4 @@
-public class Main {
+public class a {
   public static void main(String[] args) {
     int num = 29;
     boolean flag = false;
